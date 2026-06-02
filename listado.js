@@ -4,7 +4,8 @@ const juegos = [
     { nombre: "GTA V", categoria: "accion" },
     { nombre: "Minecraft", categoria: "otros" },
     { nombre: "Roblox", categoria: "otros" },
-    { nombre: "The Sims", categoria: "otros" }
+    { nombre: "The Sims", categoria: "otros" },
+    { nombre: "PUB", categoria: "shooter" }
 ];
 
 const contenedor = document.getElementById("contenedor");
