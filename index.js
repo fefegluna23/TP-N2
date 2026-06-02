@@ -3,7 +3,9 @@ const meriendas = [
     "Té con galletas",
     "Chocolate caliente",
     "Mate con bizcochos",
-    "Jugo con tostadas"
+    "Jugo con tostadas",
+    "Licuado de Frutilla ",
+    "Tortilla de Avena con limonada"
 ];
 
 const contenedor = document.getElementById("contenedorMeriendas");
